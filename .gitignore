@@ -12,3 +12,6 @@ Forc.lock
 
 # Ignore forc's output artifacts
 out
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
